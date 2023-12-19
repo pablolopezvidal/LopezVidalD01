@@ -2,13 +2,13 @@
 
 Contenido del ejercicio 1.
 
-![Ejemplo de imagen](imagenes/Captura de pantalla (758).png)
+![Ejemplo de imagen](imagenes/foto1.png)
 
 # Ejercicio 2
 
 Contenido del ejercicio 2.
 
-![Ejemplo de imagen](imagenes/Captura de pantalla (759).png)
+![Ejemplo de imagen](imagenes/foto2.png)
 
 
 # main.dart EXPLICACION:
