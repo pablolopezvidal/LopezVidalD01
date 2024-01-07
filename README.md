@@ -205,9 +205,9 @@ En resumen, `MyWidget4` representa una interfaz con un fondo azul, un número gr
 
 fotos del ejercicio
 
-![Ejemplo de imagen](./videoReadme/foto1.png)
-![Ejemplo de imagen](./videoReadme/foto2.png)
-![Ejemplo de imagen](./videoReadme/foto3.png)
+![Ejemplo de imagen](foto1.png)
+![Ejemplo de imagen](foto2.png)
+![Ejemplo de imagen](foto3.png)
 
 ## Estructura del Código
 
