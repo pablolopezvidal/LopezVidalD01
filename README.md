@@ -1,3 +1,24 @@
+# ULTIMAS MODIFICACIONES DEL PROYECTO
+
+En la versión modificada del código, se introdujeron cambios significativos para mejorar la estructura y navegación de la aplicación Flutter. Se incorporaron nuevas importaciones para páginas adicionales, 'AboutPage' y 'WidgetsPage', indicando una expansión en la funcionalidad de la aplicación. La implementación de un sistema de rutas en el MaterialApp facilita la transición entre estas páginas, con una ruta inicial establecida en '/' y rutas asignadas para las páginas principales y adicionales. Además, se creó una clase separada llamada 'HomeScreen' que extiende StatelessWidget, proporcionando un enfoque más modular al trasladar el contenido del Scaffold y permitiendo una mejor organización del código. Estas modificaciones no solo mejoran la escalabilidad y mantenimiento del código, sino que también sugieren una adopción de prácticas recomendadas para la gestión de la interfaz de usuario en aplicaciones Flutter.
+
+# pagina widgets 
+
+Este código representa la página 'WidgetsPage' de tu proyecto Flutter. En resumen, esta página se encarga de cargar datos desde un archivo JSON ubicado en los assets de la aplicación. Al iniciar, la función loadJsonData() lee y decodifica el contenido del archivo JSON, actualizando el estado del widget con la información obtenida. La interfaz de usuario se compone de un widget personalizado 'MyWidget()' seguido de un GridView que muestra tarjetas con información sobre diferentes widgets. Cada tarjeta incluye el logo de Flutter, el nombre y la descripción de un widget, organizados en una cuadrícula de dos columnas. Este diseño permite presentar de manera estructurada y visualmente atractiva la información sobre los widgets cargada desde el archivo JSON.
+
+
+# pagina about
+
+Este código representa la página 'AboutPage' en tu aplicación Flutter. En resumen, la página 'AboutPage' está diseñada como una columna que contiene el widget personalizado 'MyWidget()' seguido de un espacio en blanco y el widget 'Widget4'. Se ha establecido un diseño vertical al alinear los widgets de arriba hacia abajo y centrarlos horizontalmente en la pantalla. La inclusión de 'SizedBox' con una altura de 20.0 proporciona un espacio en blanco entre los dos widgets para mejorar la presentación visual. En términos de estructura, esta página se centra en presentar información sobre la aplicación o sección "Acerca de", utilizando componentes reutilizables como 'MyWidget()' y 'Widget4' para mantener un diseño coherente en toda la aplicación.
+
+![Ejemplo de imagen](imagenes/foto6.png)
+
+![Ejemplo de imagen](imagenes/foto7.png)
+
+![Ejemplo de imagen](imagenes/foto8.png)
+
+--------------------------------------------------------------------
+
 # Ejercicio 1
 
 Contenido del ejercicio 1.
